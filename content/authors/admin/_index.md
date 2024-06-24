@@ -59,6 +59,7 @@ education:
   - area: BS in Mechanical Engineering
     institution: Universidad EAFIT
     date_start: 2020-02-17
+    date_end: 2025-06-20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -69,20 +70,20 @@ awards:
     url: https://www.credly.com/badges/91f65dfc-22a2-418e-8af5-cabcda4d99f8/linked_in_profile
     date: '2024-05-28'
     awarder: Unity Technologies
-    #icon: unity
+    icon: unity
   - title: Fundational MATLAB
     url: https://www.credly.com/badges/e9d94dd3-47c5-47d7-b45e-0e67600d4372/linked_in_profile
     date: '2024-04-03'
     awarder: MathWorks
-    #icon: matlab
+    icon: matlab
     - title: Certified SOLIDWORKS Associate in Simulation
     date: '2023-12-11'
     awarder: SolidWorks Authorized Training Centre
-    #icon: cog-8-tooth
+    icon: cog-8-tooth
     - title: Certified SOLIDWORKS Associate in Mechanical Design
     date: '2023-11-29'
     awarder: SolidWorks Authorized Training Centre
-    #icon: cog-8-tooth
+    icon: cog-8-tooth
 
 
 
