@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2023-04-21
 type: landing
 
 design:
@@ -10,20 +10,22 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Computational Mechanics 4 The Curious Engineer
+      text: |
+        Welcome to my personal website! 
+      
       primary_action:
-        text: Get Started
+        text: Check out my projects!
         url: https://hugoblox.com/templates/
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+#      secondary_action:
+#        text: Read the docs
+#        url: https://docs.hugoblox.com
+#      announcement:
+#        text: "Announcing the release of version 1."
+#        link:
+#          text: "Read more"
+#          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,7 +36,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: endless-constellations.svg
           filters:
             brightness: 0.5
   - block: stats
@@ -113,30 +115,30 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
-  - block: cta-card
-    content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+#  - block: testimonials
+#    content:
+#      title: ""
+#      text: ""
+#      items:
+#        - name: "Hugo Smith"
+#          role: "Marketing Executive at X"
+#          # Upload image to `assets/media/` and reference the filename here
+#          image: "testimonial-1.jpg"
+#          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+#    design:
+#      spacing:
+#        # Reduce bottom spacing so the testimonial appears vertically centered between sections
+#        padding: ["6rem", 0, 0, 0]
+#  - block: cta-card
+#    content:
+#      title: Build your future-proof website
+#      text: As easy as 1, 2, 3!
+#      button:
+#        text: Get Started
+#        url: https://hugoblox.com/templates/
+#    design:
+#      card:
+#        # Card background color (CSS class)
+#        css_class: "bg-primary-700"
+#        css_style: ""
 ---

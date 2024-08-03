@@ -51,6 +51,7 @@ website: ""
 
 interests:
   - Finite Element Method
+  - Vibration and Acoustics
   - Automation
   - Dynamical Systems
   - Education
