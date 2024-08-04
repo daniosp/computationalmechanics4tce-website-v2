@@ -11,8 +11,8 @@ sections:
   - block: hero
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
-        <h1 style="font-size: 6rem; color: white; text-align: center;"> <b> Computational Mechanics </b> </h1> 
-        <h3 style="font-size: 4rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
+        <h1 style="color: white; text-align: center;"> <b> Computational Mechanics </b> </h1> 
+        <h3 style="color: white; text-align: center;"> 4 The Curious Engineer </h3> 
       #text: |
       #  Welcome to my personal website! 
       
@@ -35,10 +35,10 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-      #  color: "navy"
-        image:
+        color: "#5cb8ff"
+      #  image:
           # Add your image background to `assets/media/`.
-          filename: endless-constellation.svg
+      #    filename: endless-constellation.svg
           #filters:
           #  brightness: 0.5
   - block: stats
