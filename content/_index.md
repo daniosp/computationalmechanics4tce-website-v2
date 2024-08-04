@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: hero
@@ -33,8 +33,8 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
-        image:
+      #  color: "navy"
+      #  image:
           # Add your image background to `assets/media/`.
           filename: endless-constellation.svg
           filters:
