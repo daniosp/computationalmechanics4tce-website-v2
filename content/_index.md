@@ -36,7 +36,7 @@ sections:
       css_class: "dark"
       background:
       #  color: "navy"
-      #  image:
+        image:
           # Add your image background to `assets/media/`.
           filename: endless-constellation.svg
           #filters:
