@@ -10,7 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: <p style="font-size: 16px; color: blue;">This text will be in blue and font size will be 16 pixels.</p> #Computational Mechanics 4 The Curious Engineer
+      title: | #Computational Mechanics 4 The Curious Engineer
+        <p style="font-size: 16px; color: blue;">This text will be in blue and font size will be 16 pixels.</p> 
       text: |
         Welcome to my personal website! 
       
