@@ -5,12 +5,12 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "6rem"
 
 sections:
   - block: hero
     content:
-      title: Computational Mechanics 4 The Curious Engineer
+      title: <p style="font-size: 16px; color: blue;">This text will be in blue and font size will be 16 pixels.</p> #Computational Mechanics 4 The Curious Engineer
       text: |
         Welcome to my personal website! 
       
@@ -28,7 +28,7 @@ sections:
 #          url: "/blog/"
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ["2rem", 0, "2rem", 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
