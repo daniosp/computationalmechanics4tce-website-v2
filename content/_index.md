@@ -30,17 +30,17 @@ sections:
 #          url: "/blog/"
     design:
       spacing:
-        padding: [16px, 0, 16px, 0]
-        margin: [16px, 0, 16px, 0]
+        padding: [8px, 0, 8px, 0]
+        margin: [8px, 0, 8px, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
         color: "#5cb8ff"
-        image:
+      #  image:
           # Add your image background to `assets/media/`.
-          filename: Polygon_luminary.png
-          filters:
-            brightness: 0.5
+        #  filename: Polygon_luminary.png
+        #  filters:
+        #   brightness: 0.5
   - block: stats
     content:
       items:
