@@ -41,6 +41,19 @@ sections:
         #  filename: Polygon_luminary.png
         #  filters:
         #   brightness: 0.5
+  - block: resume-biography-3
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: "placeholdertext"
+      # Show a call-to-action button under your biography? (optional)
+    #  button:
+    #    text: Download CV
+    #url: uploads/resume.pdf
+    design:
+      css_class: light
+      background:
+        color: white
   - block: stats
     content:
       items:
