@@ -35,12 +35,12 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "#5cb8ff"
-      #  image:
+        #color: "#5cb8ff"
+        image:
           # Add your image background to `assets/media/`.
-      #    filename: endless-constellation.svg
-          #filters:
-          #  brightness: 0.5
+          filename: Polygon_luminary.svg
+          filters:
+            brightness: 1
   - block: stats
     content:
       items:
