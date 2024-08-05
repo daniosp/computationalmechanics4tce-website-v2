@@ -3,7 +3,7 @@
 title: Daniel Ospina Pajoy
 
 # Name pronunciation (optional)
-name_pronunciation: Daniel Ospina Pajoy
+# name_pronunciation: Daniel Ospina Pajoy
 
 # Full name (for SEO)
 first_name: Daniel
@@ -66,7 +66,7 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
+awards:
   - title: Unity Junior Programmer
     url: "https://www.credly.com/badges/91f65dfc-22a2-418e-8af5-cabcda4d99f8/linked_in_profile"
     date: '2024-05-28'
@@ -86,7 +86,8 @@ education:
     awarder: SolidWorks Authorized Training Centre
     icon: cog-8-tooth
     
-
 ---
+
+## About me
 
 Driven by continuous learning focused on applications that blend engineering with new technologies, I have been drawn to research and education. Thanks to this approach, I have acquired technical skills in the use of computer-aided engineering tools as well as various programming languages. I enjoy experiences that allow me to refine both my technical and interpersonal skills in the academic field.
