@@ -11,8 +11,8 @@ sections:
   - block: hero
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
-        <h1 style="font-size: 2.5rem; color: white; text-align: center;"> <b> Computational Mechanics </b> </h1> 
-        <h3 style="font-size: 1.75rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
+        <h1 style="font-size: 3.5rem; color: white; text-align: center;"> <b> Computational Mechanics </b> </h1> 
+        <h3 style="font-size: 3rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
       #text: |
       #  Welcome to my personal website! 
       
@@ -30,8 +30,8 @@ sections:
 #          url: "/blog/"
     design:
       spacing:
-        padding: [1rem, 0, 1rem, 0]
-        margin: [rem, 0, 1rem, 0]
+        padding: [16px, 0, 16px, 0]
+        margin: [16px, 0, 16px, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
