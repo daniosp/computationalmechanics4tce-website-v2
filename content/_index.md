@@ -35,12 +35,12 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        #color: "#5cb8ff"
+        color: "#5cb8ff"
         image:
           # Add your image background to `assets/media/`.
           filename: Polygon_luminary.png
-          #filters:
-          #  brightness: 0.5
+          filters:
+            brightness: 0.5
   - block: stats
     content:
       items:
