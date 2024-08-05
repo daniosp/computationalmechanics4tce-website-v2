@@ -38,9 +38,9 @@ sections:
         #color: "#5cb8ff"
         image:
           # Add your image background to `assets/media/`.
-          filename: Polygon_luminary.svg
+          filename: Polygon_luminary.png
           #filters:
-          #  brightness: 1
+          #  brightness: 0.5
   - block: stats
     content:
       items:
