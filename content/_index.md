@@ -13,8 +13,8 @@ sections:
       title: | #Computational Mechanics 4 The Curious Engineer
         <h1 style="font-size: 3.25rem; color: white; text-align: center;"> <b> Computational Mechanics </b> </h1> 
         <h3 style="font-size: 2.5rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
-      #text: |
-      #  Welcome to my personal website! 
+      text: |
+        Welcome to my personal website! 
       
       primary_action:
         text: Check out my projects!
