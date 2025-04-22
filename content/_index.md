@@ -41,6 +41,8 @@ sections:
         #  filename: Polygon_luminary.png
         #  filters:
         #   brightness: 0.5
+
+        
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
