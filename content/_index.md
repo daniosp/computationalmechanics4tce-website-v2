@@ -6,6 +6,9 @@ type: landing
 design:
   # Default section spacing
   spacing: "3rem"
+  background:
+    video: "header-background.mp4"
+    flip: false
 
 sections:
   - block: hero
@@ -35,10 +38,7 @@ sections:
         #padding: [8px, 0, 8px, 0]
         #margin: [8px, 0, 8px, 0]
       # For full-screen, add `min-h-screen` below
-      # css_class: "dark"
-      background:
-        video: "header_background.mp4"
-        flip: false
+      css_class: "dark"
       # color:
       #  image:
           # Add your image background to `assets/media/`.
