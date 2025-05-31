@@ -6,16 +6,6 @@ type: landing
 design:
   # Default section spacing
   spacing: "3rem"
-  background:
-    color: black
-    image:
-      # Add your image background to `assets/media/`.
-      filename: site-bg.jpg
-      filters:
-        brightness: 1.0
-      size: cover
-      position: center
-      parallax: false
 
 sections:
   - block: hero
@@ -41,19 +31,17 @@ sections:
 #          text: "Read more"
 #          url: "/blog/"
     design:
-      spacing:
-        padding: [8px, 0, 8px, 0]
-        margin: [8px, 0, 8px, 0]
       # For full-screen, add `min-h-screen` below
       #css_class: "dark"
-      # color:
-        background:
-          video:
+      background:
+        image:
           # Add your image background to `assets/media/`.
-            filename: header-background.mp4
-            flip: false
-        #  filters:
-        #   brightness: 0.5
+          filename: site-bg.jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
         
   - block: resume-biography-3
