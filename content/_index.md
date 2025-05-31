@@ -7,7 +7,8 @@ design:
   # Default section spacing
   spacing: "3rem"
   background:
-    image: site-bg.jpg
+    image: 
+      filename: site-bg.jpg
 
 sections:
   - block: hero
