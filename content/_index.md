@@ -7,8 +7,15 @@ design:
   # Default section spacing
   spacing: "3rem"
   background:
+    color: black
     image:
+      # Add your image background to `assets/media/`.
       filename: site-bg.jpg
+      filters:
+        brightness: 1.0
+      size: cover
+      position: center
+      parallax: false
 
 sections:
   - block: hero
