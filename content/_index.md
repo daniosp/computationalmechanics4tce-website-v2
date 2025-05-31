@@ -7,7 +7,7 @@ design:
   # Default section spacing
   spacing: "3rem"
   background:
-    video: header-background.mp4
+    image: site-bg.jpg
 
 sections:
   - block: hero
