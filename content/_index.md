@@ -7,7 +7,7 @@ design:
   # Default section spacing
   spacing: "3rem"
   background:
-    video: "header-background.mp4"
+    video: header-background.mp4
 
 sections:
   - block: hero
@@ -78,7 +78,7 @@ sections:
             for support
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: dark
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
@@ -137,7 +137,7 @@ sections:
             url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: dark
 #  - block: testimonials
 #    content:
 #      title: ""
