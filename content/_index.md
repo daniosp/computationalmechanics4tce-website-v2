@@ -12,11 +12,11 @@ sections:
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
 
-        <h1 style="font-size: 3.25rem; text-align: center; color: linear-gradient(to right, blue, red)">
+        <h1 style="font-size: 3.25rem; text-align: center; color: white">
           <b> Computational Mechanics </b> </h1> 
         <h3 style="font-size: 2.5rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
       text: |
-        Welcome to my personal website! 
+        <p style="color: white"> Welcome to my personal website! </p>
       
       primary_action:
         text: Check out my projects!
@@ -37,7 +37,8 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "#5cb8ff"
+        video: "header_background.mp4"
+      # color:
       #  image:
           # Add your image background to `assets/media/`.
         #  filename: Polygon_luminary.png
@@ -121,6 +122,7 @@ sections:
           button:
             text: Get Started
             url: https://hugoblox.com/templates/
+            
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
