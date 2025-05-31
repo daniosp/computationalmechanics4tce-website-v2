@@ -6,9 +6,9 @@ type: landing
 design:
   # Default section spacing
   spacing: "3rem"
-  image:
-    filename: site-bg.jpg
-    size: contain
+  background:
+    image:
+      filename: site-bg.jpg
 
 sections:
   - block: hero
@@ -40,9 +40,11 @@ sections:
       # For full-screen, add `min-h-screen` below
       #css_class: "dark"
       # color:
-        image:
+        background:
+          video:
           # Add your image background to `assets/media/`.
-          filename: site-bg.jpg
+            filename: header-background.mp4
+            flip: false
         #  filters:
         #   brightness: 0.5
 
