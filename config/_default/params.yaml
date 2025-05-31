@@ -8,9 +8,8 @@ appearance:
   mode: dark
   color: blue
 
-font:
-  heading: "Poppins"
-  text: "Inter"
+style:
+  custom_css: ["css/custom.css"]
 
 
 # SEO
