@@ -11,10 +11,8 @@ sections:
   - block: hero
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
-        #<h1 style="font-size: 3.25rem; color: white; text-align: center;"> 
-        <link rel="stylesheet" href="/css/custom-fonts.css">
 
-        <h1 class="comic-font" style="font-size: 3.25rem; color: white; text-align: center;"> 
+        <h1 style="font-size: 3.25rem; text-align: center; background: linear-gradient(90deg, #00f, #800080);-webkit-background-clip: text;-webkit-text-fill-color: transparent">
           <b> Computational Mechanics </b> </h1> 
         <h3 style="font-size: 2.5rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
       text: |
@@ -57,9 +55,11 @@ sections:
     #    text: Download CV
     #url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
-        color: white
+        color: 
+        
+
   - block: stats
     content:
       items:
