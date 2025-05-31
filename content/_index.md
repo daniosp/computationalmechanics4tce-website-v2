@@ -6,8 +6,9 @@ type: landing
 design:
   # Default section spacing
   spacing: "3rem"
-  background:
-    video: header-background.mp4
+  image:
+    filename: site-bg.jpg
+    size: contain
 
 sections:
   - block: hero
@@ -32,16 +33,16 @@ sections:
 #        link:
 #          text: "Read more"
 #          url: "/blog/"
-    #design:
-      #spacing:
-        #padding: [8px, 0, 8px, 0]
-        #margin: [8px, 0, 8px, 0]
+    design:
+      spacing:
+        padding: [8px, 0, 8px, 0]
+        margin: [8px, 0, 8px, 0]
       # For full-screen, add `min-h-screen` below
       #css_class: "dark"
       # color:
-      #  image:
+        image:
           # Add your image background to `assets/media/`.
-        #  filename: Polygon_luminary.png
+          filename: site-bg.jpg
         #  filters:
         #   brightness: 0.5
 
