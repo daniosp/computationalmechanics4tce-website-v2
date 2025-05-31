@@ -5,8 +5,13 @@
 
 # Appearance
 appearance:
-  mode: light
+  mode: dark
   color: blue
+
+font:
+  heading: "Poppins"
+  text: "Inter"
+
 
 # SEO
 marketing:
@@ -31,7 +36,7 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: "left"
     fixed_to_top: true
     logo:
       text: ""
