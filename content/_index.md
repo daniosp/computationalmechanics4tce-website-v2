@@ -31,9 +31,9 @@ sections:
 #          text: "Read more"
 #          url: "/blog/"
     design:
-      spacing:
-        padding: [8px, 0, 8px, 0]
-        margin: [8px, 0, 8px, 0]
+      #spacing:
+        #padding: [8px, 0, 8px, 0]
+        #margin: [8px, 0, 8px, 0]
       # For full-screen, add `min-h-screen` below
       # css_class: "dark"
       background:
