@@ -8,7 +8,6 @@ design:
   spacing: "3rem"
   background:
     video: "header-background.mp4"
-    flip: false
 
 sections:
   - block: hero
