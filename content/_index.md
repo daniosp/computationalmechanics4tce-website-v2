@@ -12,7 +12,7 @@ sections:
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
 
-        <h1 style="font-size: 3.25rem; text-align: center; background: linear-gradient(to right, blue, red)">
+        <h1 style="font-size: 3.25rem; text-align: center; color: linear-gradient(to right, blue, red)">
           <b> Computational Mechanics </b> </h1> 
         <h3 style="font-size: 2.5rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
       text: |
