@@ -34,14 +34,9 @@ sections:
       # For full-screen, add `min-h-screen` below
       #css_class: "dark"
       background:
-        image:
-          # Add your image background to `assets/media/`.
-          filename: site-bg.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        video:
+          filename: header-background.mp4
+          flip: false
 
         
   - block: resume-biography-3
