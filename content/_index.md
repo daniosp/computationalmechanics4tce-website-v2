@@ -7,8 +7,7 @@ design:
   # Default section spacing
   spacing: "3rem"
   background:
-    image: 
-      filename: site-bg.jpg
+    video: header-background.mp4
 
 sections:
   - block: hero
@@ -33,12 +32,12 @@ sections:
 #        link:
 #          text: "Read more"
 #          url: "/blog/"
-    design:
+    #design:
       #spacing:
         #padding: [8px, 0, 8px, 0]
         #margin: [8px, 0, 8px, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+      #css_class: "dark"
       # color:
       #  image:
           # Add your image background to `assets/media/`.
