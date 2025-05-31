@@ -11,7 +11,17 @@ sections:
   - block: hero
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
-        <h1 style="font-size: 3.25rem; color: white; text-align: center;"> <b> Computational Mechanics </b> </h1> 
+        <h1 style="font-size: 3.25rem; color: white; text-align: center;"> 
+          <style>
+            @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+            h1 {
+              font-family: 'Open Sans', serif;
+              color: green;
+            }
+          </style>
+        
+          <b> Computational Mechanics </b> </h1> 
         <h3 style="font-size: 2.5rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
       text: |
         Welcome to my personal website! 
