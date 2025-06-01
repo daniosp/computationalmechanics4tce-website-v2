@@ -26,6 +26,8 @@ marketing:
     google: ''
     baidu: ''
 
+
+
 # Site header
 header:
   navbar:
@@ -34,9 +36,8 @@ header:
     align: "left"
     fixed_to_top: true
     logo:
-      text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo-cube.svg"
+      filename: "logo-cube.png"
     #button:
     #  enable: true
     #  text: "Get Started"

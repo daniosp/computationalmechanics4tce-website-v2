@@ -12,7 +12,7 @@ sections:
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
 
-        <h1 style=" font-size: 3.5rem; text-align: left; color: white">
+        <h1 style=" font-size: 4rem; text-align: left; color: white">
           <b> I am Daniel Ospina Pajoy — An innovative & curious-driven <br>
            <span style="color: #03C6D2">  Mechanical Engineer </span> who seeks to change the world  <br> 
           through technology </b> </h1> 
@@ -54,9 +54,8 @@ sections:
     #    text: Download CV
     #url: uploads/resume.pdf
     design:
-      css_class: dark
       background:
-        color: 
+        color: "black"
         
 
   - block: stats
@@ -76,10 +75,13 @@ sections:
             for support
     design:
       # Section background color (CSS class)
-      css_class: dark
+      background:
+        color: "black"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+
+
   - block: features
     id: features
     content:
@@ -135,7 +137,8 @@ sections:
             url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
-      css_class: dark
+      background:
+        color: "black"
 #  - block: testimonials
 #    content:
 #      title: ""
