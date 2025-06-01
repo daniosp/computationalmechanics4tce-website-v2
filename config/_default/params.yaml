@@ -34,10 +34,10 @@ header:
     enable: true
     blox: "navbar"
     align: "left"
-    fixed_to_top: true
+    fixed_to_top: false
     logo:
       # Logo filename in `assets/media/` folder
-      filename: "logo-cube.png"
+      filename: "icon.png"
     #button:
     #  enable: true
     #  text: "Get Started"
