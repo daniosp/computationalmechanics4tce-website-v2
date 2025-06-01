@@ -30,13 +30,13 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    blox: "floating-theme-toggler"
     align: "left"
-    fixed_to_top: true
+    fixed_to_top: false
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo_test.png"
+      filename: "logo-cube.svg"
     #button:
     #  enable: true
     #  text: "Get Started"

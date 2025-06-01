@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="logo-cube.svg"
+   inkscape:export-filename="logo-cube.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="2"
+     inkscape:cx="245.75"
+     inkscape:cy="174.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient35"
+       inkscape:label="grad1">
+      <stop
+         style="stop-color:#1c1c1c;stop-opacity:1;"
+         offset="0"
+         id="stop33" />
+      <stop
+         style="stop-color:#0e6288;stop-opacity:1;"
+         offset="0.5"
+         id="stop34" />
+      <stop
+         style="stop-color:#07a8d0;stop-opacity:1;"
+         offset="1"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient22"
+       inkscape:label="grad1">
+      <stop
+         style="stop-color:#1e1e1e;stop-opacity:1;"
+         offset="0"
+         id="stop25" />
+      <stop
+         style="stop-color:#0284c7;stop-opacity:1;"
+         offset="0.5"
+         id="stop26" />
+      <stop
+         style="stop-color:#4ad8f8;stop-opacity:1;"
+         offset="1"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient22-1"
+       inkscape:label="grad1">
+      <stop
+         style="stop-color:#1e1e1e;stop-opacity:1;"
+         offset="0"
+         id="stop22" />
+      <stop
+         style="stop-color:#0284c7;stop-opacity:1;"
+         offset="0.5"
+         id="stop24" />
+      <stop
+         style="stop-color:#4ad8f8;stop-opacity:1;"
+         offset="1"
+         id="stop23" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-148.0385 : 85.470071 : 0"
+       inkscape:vp_y="0 : 1207.1137 : 0"
+       inkscape:vp_z="152.15704 : 87.847902 : 0"
+       inkscape:persp3d-origin="152.01609 : 71.246905 : 1"
+       id="perspective1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22-1"
+       id="linearGradient23"
+       x1="28.749998"
+       y1="79.999733"
+       x2="271.23618"
+       y2="79.999733"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22"
+       id="linearGradient29"
+       x1="28.749998"
+       y1="184.99998"
+       x2="149.99265"
+       y2="184.99998"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35"
+       id="linearGradient31"
+       x1="149.99265"
+       y1="184.99974"
+       x2="271.23618"
+       y2="184.99974"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:9.34951;stroke-linejoin:round;stroke-opacity:0"
+       id="rect1"
+       width="300"
+       height="300"
+       x="0"
+       y="0"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g1"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:19.6535;stroke-linejoin:round;stroke-opacity:0"
+       inkscape:perspectiveID="#perspective1"
+       inkscape:corner0="2.4358656 : -0.16275714 : 1.5598082 : 1"
+       inkscape:corner7="1.6168716 : -0.27873672 : 2.3566398 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path2"
+         style="fill:url(#linearGradient23);fill-opacity:1"
+         inkscape:box3dsidetype="5"
+         d="M 28.749999,79.999985 149.99264,149.99946 271.23618,79.999476 149.99354,10 Z"
+         points="149.99264,149.99946 271.23618,79.999476 149.99354,10 28.749999,79.999985 "
+         inkscape:label="top" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4"
+         style="opacity:1;fill:url(#linearGradient31)"
+         inkscape:box3dsidetype="14"
+         d="M 149.99264,149.99946 V 290 L 271.23618,220.00002 V 79.999476 Z"
+         points="149.99264,290 271.23618,220.00002 271.23618,79.999476 149.99264,149.99946 "
+         inkscape:label="right" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3"
+         style="opacity:1;fill:url(#linearGradient29)"
+         inkscape:box3dsidetype="3"
+         d="M 28.749999,79.999985 149.99264,149.99946 V 290 L 28.749999,220.00052 Z"
+         points="149.99264,149.99946 149.99264,290 28.749999,220.00052 28.749999,79.999985 "
+         inkscape:label="left" />
+    </g>
+  </g>
+</svg>

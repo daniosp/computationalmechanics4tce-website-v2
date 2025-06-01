@@ -12,10 +12,15 @@ sections:
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
 
-        <h1 style="font-size: 3.25rem; text-align: center; color: white">
-          <b> Computational Mechanics </b> </h1> 
-        <h3 style="font-size: 2.5rem; color: white; text-align: center;"> 4 The Curious Engineer </h3> 
+        <h1 style="font-size: 4rem; text-align: left; color: white">
+          <b> I am Daniel Ospina Pajoy — An innovative & <br>
+          curious-driven <span style="color: #03C6D2">  Mechanical Engineer </span> who seeks to <br> 
+          change the world with technology </b> </h1> 
+      image:
+        filename: empty.png
+        
       text: |
+        <br>
         <p style="color: white"> Welcome to my personal website! </p>
       
       primary_action:
