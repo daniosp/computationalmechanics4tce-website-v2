@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: sky
+  color: cyan
 
 # SEO
 marketing:
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: \navbar
+    blox: navbar
     align: "left"
     fixed_to_top: false
     logo:
