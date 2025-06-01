@@ -23,14 +23,7 @@ sections:
         text: Learn more
         url: https://hugoblox.com/templates/
         icon: hero/chevron-down
-#      secondary_action:
-#        text: Read the docs
-#        url: https://docs.hugoblox.com
-#      announcement:
-#        text: "Announcing the release of version 1."
-#        link:
-#          text: "Read more"
-#          url: "/blog/"
+
     design:
       background:
         color: "black"
@@ -39,19 +32,24 @@ sections:
           flip: false
 
 
-# Innovation begins with <span style="color: #03C6D2"> curiosity </span> 
+# <span style="color: #03C6D2"> </span> 
 
-        
-  - block: resume-biography-3
+  - block: cta-image-paragraph
+    id: solutions
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: "" 
-      # Show a call-to-action button under your biography? (optional)
-    #  button:
-    #    text: Download CV
-    #url: uploads/resume.pdf
+      items:
+        - title: |
+            <h1 style=" font-size: 2rem; text-align: left; color: white"> Innovation begins with <span style="color: #03C6D2"> curiosity </span> </h1> 
+         
+          text: |
+            <p style="color: white"> Driven by continuous learning focused on applications that blend engineering with new technologies, I have been drawn to research and education. Thanks to this approach, I have acquired technical skills in the use of computer-aided engineering tools as well as various programming languages. I enjoy experiences that allow me to refine both my technical and interpersonal skills in the academic field. </p>
+
+          image: profile-picture.jpg
+          button:
+            text: About me page
+            url: https://hugoblox.com/templates/
     design:
+      # Section background color (CSS class)
       background:
         color: "black"
         
