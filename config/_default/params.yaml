@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     blox: navbar
-    align: "left"
+    align: "right"
     fixed_to_top: false
     logo:
       # Logo filename in `assets/media/` folder

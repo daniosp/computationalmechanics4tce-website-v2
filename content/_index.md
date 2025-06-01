@@ -12,8 +12,8 @@ sections:
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
 
-        <h1 style=" font-size: 2.5rem; text-align: center; color: white">
-          <b> I use engineering, simulation, and immersive digital tools to build <span style="color: #03C6D2">meaningful solutions</span> that blend technology and human experience </b> </h1> 
+        <h1 style=" font-size: 2.5rem; text-align: justify; color: white">
+          <b> I use engineering, simulation, and immersive digital tools to build <span style="color: #03C6D2">meaningful solutions</span>  at the edge of human-technology interaction </b> </h1> 
         
       text: |
         <br>
