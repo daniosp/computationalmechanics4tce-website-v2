@@ -13,13 +13,14 @@ sections:
       title: | #Computational Mechanics 4 The Curious Engineer
 
         <h1 style=" font-size: 2.5rem; text-align: center; color: white">
-          <b> Innovation begins with <span style="color: #03C6D2"> curiosity </span> — I use engineering, simulation, and immersive digital tools to build meaningful <span style="color: #03C6D2">  solutions </span> that blend technology and human experience </b> </h1> 
+          <b> I use engineering, simulation, and immersive digital tools to build <span style="color: #03C6D2">meaningful solutions</span> that blend technology and human experience </b> </h1> 
         
       text: |
         <br>
-        <p style="color: white"> Computational Mechanics | Simulation & Digital Twins | AI/ML Explorer | Python & Unity Developer </p>
+        <p style="color: white"> Computational Mechanics | Simulation & Digital Twins | Automation | AI/ML Explorer | Python & Unity Developer </p>
       
       primary_action:
+        text: Learn more
         url: https://hugoblox.com/templates/
         icon: hero/chevron-down
 #      secondary_action:
@@ -32,16 +33,20 @@ sections:
 #          url: "/blog/"
     design:
       background:
+        color: "black"
         video:
           filename: header-background.mp4
           flip: false
+
+
+# Innovation begins with <span style="color: #03C6D2"> curiosity </span> 
 
         
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "" 
       # Show a call-to-action button under your biography? (optional)
     #  button:
     #    text: Download CV
