@@ -8,6 +8,29 @@ design:
   spacing: "3rem"
 
 sections:
+
+
+  - block: cta-image-paragraph
+    id: solutions
+    content:
+      items:
+        - title: |
+            <h1 style=" font-size: 2rem; text-align: left; color: white"> Innovation begins with <span style="color: #03C6D2"> curiosity </span> </h1> 
+         
+          text: |
+            <p style="color: white"> Driven by continuous learning focused on applications that blend engineering with new technologies, I have been drawn to research and education. Thanks to this approach, I have acquired technical skills in the use of computer-aided engineering tools as well as various programming languages. I enjoy experiences that allow me to refine both my technical and interpersonal skills in the academic field. </p>
+
+          image: profile-picture.jpg
+          button:
+            text: About me page
+            url: https://hugoblox.com/templates/
+    design:
+      # Section background color (CSS class)
+      background:
+        color: "black"
+        
+
+
   - block: hero
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
@@ -34,25 +57,6 @@ sections:
 
 # <span style="color: #03C6D2"> </span> 
 
-  - block: cta-image-paragraph
-    id: solutions
-    content:
-      items:
-        - title: |
-            <h1 style=" font-size: 2rem; text-align: left; color: white"> Innovation begins with <span style="color: #03C6D2"> curiosity </span> </h1> 
-         
-          text: |
-            <p style="color: white"> Driven by continuous learning focused on applications that blend engineering with new technologies, I have been drawn to research and education. Thanks to this approach, I have acquired technical skills in the use of computer-aided engineering tools as well as various programming languages. I enjoy experiences that allow me to refine both my technical and interpersonal skills in the academic field. </p>
-
-          image: profile-picture.jpg
-          button:
-            text: About me page
-            url: https://hugoblox.com/templates/
-    design:
-      # Section background color (CSS class)
-      background:
-        color: "black"
-        
 
   - block: stats
     content:
