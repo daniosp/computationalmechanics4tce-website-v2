@@ -12,7 +12,7 @@ sections:
     content:
       title: | #Computational Mechanics 4 The Curious Engineer
 
-        <h1 style=" font-size: 2.5rem; text-align: justify; color: white">
+        <h1 style=" font-size: 2.5rem; text-align: center; color: white">
           <b> Innovation begins with <span style="color: #03C6D2"> curiosity </span> — I use engineering, simulation, and immersive digital tools to build meaningful <span style="color: #03C6D2">  solutions </span> that blend technology and human experience </b> </h1> 
         
       text: |
@@ -31,8 +31,6 @@ sections:
 #          text: "Read more"
 #          url: "/blog/"
     design:
-      # For full-screen, add `min-h-screen` below
-      #css_class: "dark"
       background:
         video:
           filename: header-background.mp4
