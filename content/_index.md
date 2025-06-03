@@ -61,7 +61,8 @@ sections:
     id: features
     content:
       title: My technical skills
-      text:  <p style="color: white"> Tools that power my work — from rapid prototyping to simulation and interactive tech. </p>
+      text:  |
+        <p style="color: white"> Tools that power my work — from rapid prototyping to simulation and interactive tech. </p>
       items:
         - name: Scientific Programming & Computer Vision
           icon: devicon/python
