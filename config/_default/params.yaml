@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: blue
+  color: cyan
 
 # SEO
 marketing:
@@ -37,7 +37,7 @@ header:
     fixed_to_top: false
     logo:
       # Logo filename in `assets/media/` folder
-      filename: "icon.png"
+      filename: "logo-cube-w.png"
     #button:
     #  enable: true
     #  text: "Get Started"

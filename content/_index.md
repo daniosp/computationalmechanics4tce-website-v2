@@ -62,25 +62,25 @@ sections:
     content:
       title: My technical skills
       text:  |
-        <p style="color: white"> Tools that power my work — from rapid prototyping to simulation and interactive tech. </p>
+        <p style="color: white; text-alignment: center"> Tools that power my work — from rapid prototyping to simulation and interactive tech. </p>
       items:
         - name: Scientific Programming & Computer Vision
-          icon: devicon/python
+          icon: custom/icons8-python
           description: Used for building simulation tools, data maniuplation, and training vision models with YOLO and OpenCV.
         - name: Immersive Prototyping with C#
-          icon: devicon/unity
+          icon: custom/icons8-unity
           description: Unity Jr. Programmer certified — built a programmable conveyor belt prototype using C# and logic-based control.
         - name: Microcontroller Programming & Control
-          icon: devicon/arduino
+          icon: custom/icons8-arduino
           description: Developed control systems for a Hanoi robot and mini conveyor belt — connecting code to real-world machines.
         - name: Certified CAD & Simulation Skills
-          icon: custom/solidworks
+          icon: custom/icons8-solidworks
           description: Certified in SolidWorks Design and Simulation — skilled in 3D modeling and FEA for engineering applications.
         - name: Engineering Computation & Simulation
-          icon: devicon/matlab
+          icon: custom/icons8-matlab
           description: Used numerical methods like integration and differentiation to solve differential equations and simulate complex engineering problems.
         - name: Version Control & Collaboration
-          icon: devicon/github
+          icon: custom/icons8-github
           description: Sharing, managing, and tracking code for personal and team-based projects.
 
     design:
