@@ -15,10 +15,10 @@ sections:
     content:
       items:
         - title: |
-            <h1 style=" font-size: 2.5rem; text-align: left; color: white"> Innovation begins with <span style="color: #03C6D2"> curiosity </span> </h1> 
+            <h1 style=" font-size: 2.1rem; text-align: left; color: white"> Innovation begins with <span style="color: #03C6D2"> curiosity </span> </h1> 
          
           text: |
-            <p style="font-size: 1.5rem; color: white; text-align: justify"> I am Daniel Ospina Pajoy — a creative engineer passionate about merging physical systems with digital intelligence. I believe in the power of continuous learning and in the role of engineers as change-makers in today’s fast-paced technological landscape. By focusing on innovation, research, and emerging tools, I aim to create transformative impact. </p>
+            <p style="font-size: 1.1rem; color: white; text-align: justify"> I am Daniel Ospina Pajoy — a creative engineer passionate about merging physical systems with digital intelligence. I believe in the power of continuous learning and in the role of engineers as change-makers in today’s fast-paced technological landscape. By focusing on innovation, research, and emerging tools, I aim to create transformative impact. </p>
 
           image: profile-picture.jpg
           button:
@@ -42,10 +42,10 @@ sections:
         <br>
         <p style="color: white"> Computational Mechanics | Simulation & Digital Twins | Automation | AI/ML Explorer | Python & Unity Developer </p>
       
-      primary_action:
-        text: Learn more
-        url: https://hugoblox.com/templates/
-        icon: hero/chevron-down
+      #primary_action:
+      #  text: Learn more
+      #  url: https://hugoblox.com/templates/
+      #  icon: hero/chevron-down
 
     design:
       background:
@@ -62,7 +62,8 @@ sections:
     content:
       title: My technical skills
       text:  |
-        <p style="color: white; text-alignment: center"> Tools that power my work — from rapid prototyping to simulation and interactive tech. </p>
+        <br>
+        <p style="color: white; text-alignment: justify">Tools that power my work — from rapid prototyping to simulation and interactive tech. </p>
       items:
         - name: Scientific Programming & Computer Vision
           icon: custom/icons8-python
