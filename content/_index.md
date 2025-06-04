@@ -11,7 +11,7 @@ sections:
 
 
   - block: cta-image-paragraph
-    id: solutions
+    id: home
     content:
       items:
         - title: |
@@ -23,7 +23,7 @@ sections:
           image: profile-picture.jpg
           button:
             text: About me page
-            url: https://hugoblox.com/templates/
+            url: authors/
     design:
       # Section background color (CSS class)
       background:
@@ -58,7 +58,7 @@ sections:
 # <span style="color: #03C6D2"> </span> 
 
   - block: features
-    id: features
+    id: skils-home
     content:
       title: My technical skills
       text:  |
