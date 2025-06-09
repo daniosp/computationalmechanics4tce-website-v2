@@ -11,7 +11,7 @@ sections:
 
 
   - block: cta-image-paragraph
-    id: home
+    id: solutions
     content:
       items:
         - title: |
@@ -22,8 +22,8 @@ sections:
 
           image: profile-picture.jpg
           button:
-            text: About me page
-            url: authors/
+            text: Learn more
+            url: /#skills
     design:
       # Section background color (CSS class)
       background:
@@ -58,7 +58,7 @@ sections:
 # <span style="color: #03C6D2"> </span> 
 
   - block: features
-    id: skils-home
+    id: skills
     content:
       title: My technical skills
       text:  |
@@ -73,7 +73,7 @@ sections:
           description: Unity Jr. Programmer certified — built a programmable conveyor belt prototype using C# and logic-based control.
         - name: Microcontroller Programming & Control
           icon: custom/icons8-arduino
-          description: Developed control systems for a Hanoi robot and mini conveyor belt — connecting code to real-world machines.
+          description: Developed control systems for a robot that builds a tower of Hanoi  and mini conveyor belt — connecting code to real-world machines.
         - name: Certified CAD & Simulation Skills
           icon: custom/icons8-solidworks
           description: Certified in SolidWorks Design and Simulation — skilled in 3D modeling and FEA for engineering applications.
@@ -88,21 +88,5 @@ sections:
       # Section background color (CSS class)
       background:
         color: "black"
-
-
-  - block: collection
-    id: project-home
-    content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - blog
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-
-
 
 ---

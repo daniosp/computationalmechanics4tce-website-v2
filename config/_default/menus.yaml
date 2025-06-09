@@ -6,12 +6,14 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: About Me
-    url: authors/
-    weight: 20 
-  - name: Projects
-    url: /#project-home
-    weight: 30
-  - name: Blog
-    url: blog/
-    weight: 50
+  #- name: About Me
+  #  url: /#features
+  #  weight: 20
+  #- name: Projects
+  #  url: /#projects-home
+  #  weight: 30
+  #- name: Courses
+  #  weight: 40
+  #- name: Blog
+  #  url: blog/
+  #  weight: 50
